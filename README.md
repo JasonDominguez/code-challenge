@@ -7,9 +7,9 @@ npm install
 Then set firebase forestore and copy credentials to firebase.js or your .env file
 
 run with 
-'''
+```
 npm start
-'''
+```
 
 ### Solution uses Google's Firebase to handle database and backend
 
