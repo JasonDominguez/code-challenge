@@ -24,6 +24,7 @@ function App() {
   return (
     <div className="App">
         <h1>Paymerang Code Challenge</h1>
+        <a href="https://github.com/JasonDominguez/code-challenge">Back to Repo</a>
         <DataTable page={page} onClick={handleChange} />
     </div>
   );

@@ -26,3 +26,4 @@ yarn-error.log*
 service-key.json
 json-to-firestore.js
 sample.json
+.eslintcache
