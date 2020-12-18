@@ -15,7 +15,7 @@ npm install
 npm start
 ```
 
-### Solution uses Google's Firebase to handle database and backend[
+### Solution uses Google's Firebase to handle database and backend
 [Firebase JS SKD reference](https://firebase.google.com/docs/reference/js)
 
 [Script](https://hackernoon.com/filling-cloud-firestore-with-data-3f67d26bd66e) to import sample data 
