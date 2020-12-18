@@ -20,5 +20,6 @@ npm start
 
 [Script](https://hackernoon.com/filling-cloud-firestore-with-data-3f67d26bd66e) to import sample data 
 
+[react-firebase-hooks](https://www.npmjs.com/package/react-firebase-hooks/v/1.2.0-rc.2#cloud-firestore) reference 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
