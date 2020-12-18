@@ -1,5 +1,7 @@
 # Solution to Paymerang Code Challenge
 
+[Link to demo](https://jasondominguez.github.io/code-challenge/)
+
 First clone repo and install with 
 ```
 npm install
